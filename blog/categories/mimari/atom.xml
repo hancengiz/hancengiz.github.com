@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[cengiz han]]></title>
-  <link href="http://hancengiz.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: mimari | cengiz han]]></title>
+  <link href="http://hancengiz.github.com/blog/categories/mimari/atom.xml" rel="self"/>
   <link href="http://hancengiz.github.com/"/>
   <updated>2013-03-22T23:13:43+00:00</updated>
   <id>http://hancengiz.github.com/</id>
@@ -35,7 +35,7 @@
 <p>Bu araclari nasil kurup isleteceginize dair takip eden baska bir blog yazim daha olacak simdilik bahsettigim araclara su adreslerden bakabilirsiniz.</p>
 
 <p>Kibana hakkinda fikir vermesi acisindan Logstash ile toplanmis loglarin tek bir arayuz ile timeline uzerinde gosteren ornek bir ekran goruntusu ile bitiriyorum simdilik.
-<img class="left" src="http://hancengiz.github.com/images/content/kibana.png" title="Kibana ekran goruntusu" ></p>
+<img class="left" src="/images/content/kibana.png" title="Kibana ekran goruntusu" ></p>
 
 <ul>
 <li><a href="http://logstash.net">http://logstash.net</a></li>
