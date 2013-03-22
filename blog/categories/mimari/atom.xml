@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mimari | cengiz han]]></title>
   <link href="http://hancengiz.github.com/blog/categories/mimari/atom.xml" rel="self"/>
   <link href="http://hancengiz.github.com/"/>
-  <updated>2013-03-22T22:47:30+00:00</updated>
+  <updated>2013-03-22T23:00:29+00:00</updated>
   <id>http://hancengiz.github.com/</id>
   <author>
     <name><![CDATA[Cengiz Han]]></name>
@@ -33,6 +33,9 @@
 <p>LogStash ve Graylog2 gibi log toplama araclari genellikle log kayitlarini toplamaka istediginiz sunuculariniz uzerinde calisan uygulari ile log verinizi merkezi sunucularina aktarir ve bir web arayuzu ile bunlari goruntuler. Tabiki bu yontem log kayitlarinizi toplamaniz icin yapilmasi gereken tek yol degil, AMQP gibi mesajlasma protokolleri ile de log kayitlarinin merkezi sunucuya toplanmasi soz konusudur. Eger buyuk bir dagitik sistem uzerinde calisiyorsaniz bir AMQP messajlasma sistemi uzerinden bu mesajlari dagitmak guvenilir ve olceklenebilir bir log toplama sistemi kurmaniza yardimci olacaktir. Ornegin log verilerini topladiginiz sunucunuzu gecici olarak kapatsaniz bile, tekrar calistirdiniz da mesaj kuyrugunda bekleyen log verilerini bulup, isleyecektir.</p>
 
 <p>Bu araclari nasil kurup isleteceginize dair takip eden baska bir blog yazim daha olacak simdilik bahsettigim araclara su adreslerden bakabilirsiniz.</p>
+
+<p>Kibana hakkinda fikir vermesi acisindan Logstash ile toplanmis loglarin tek bir arayuz ile timeline uzerinde gosteren ornek bir ekran goruntusu ile bitiriyorum simdilik.
+<img class="left" src="/images/content/kibana.png" title="Kibana ekran goruntusu" ></p>
 
 <ul>
 <li><a href="http://logstash.net">http://logstash.net</a></li>
