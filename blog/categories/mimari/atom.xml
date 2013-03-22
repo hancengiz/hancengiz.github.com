@@ -4,7 +4,7 @@
   <title><![CDATA[Category: mimari | cengiz han]]></title>
   <link href="http://hancengiz.github.com/blog/categories/mimari/atom.xml" rel="self"/>
   <link href="http://hancengiz.github.com/"/>
-  <updated>2013-03-22T22:34:08+00:00</updated>
+  <updated>2013-03-22T22:41:19+00:00</updated>
   <id>http://hancengiz.github.com/</id>
   <author>
     <name><![CDATA[Cengiz Han]]></name>
@@ -34,10 +34,13 @@
 
 <p>Bu araclari nasil kurup isleteceginize dair takip eden baska bir blog yazim daha olacak simdilik bahsettigim araclara su adreslerden bakabilirsiniz.</p>
 
-<p>http://logstash.net
-http://kibana.org/
-http://www.rabbitmq.com
-http://graylog2.org</p>
+<ul>
+<li><a href="http://logstash.net">http://logstash.net</a></li>
+<li><a href="http://kibana.org/">http://kibana.org/</a></li>
+<li><a href="http://www.rabbitmq.com">http://www.rabbitmq.com</a></li>
+<li><a href="http://graylog2.org">http://graylog2.org</a></li>
+</ul>
+
 ]]></content>
   </entry>
   
