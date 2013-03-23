@@ -23,7 +23,7 @@ LogStash ve Graylog2 gibi log toplama araclari genellikle log kayitlarini toplam
 Bu araclari nasil kurup isleteceginize dair takip eden baska bir blog yazim daha olacak simdilik bahsettigim araclara su adreslerden bakabilirsiniz.
 
 Kibana hakkinda fikir vermesi acisindan Logstash ile toplanmis loglarin tek bir arayuz ile timeline uzerinde gosteren ornek bir ekran goruntusu ile bitiriyorum simdilik.
-{% img left /images/content/kibana.png Kibana ekran goruntusu %}
+{% img left /images/content/kibana-screenshot.png Kibana ekran goruntusu %}
 
 
 
