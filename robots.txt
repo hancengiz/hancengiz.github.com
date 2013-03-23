@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://hancengiz.github.com/sitemap.xml 
+Sitemap: http://www.cengizhan.com/sitemap.xml 

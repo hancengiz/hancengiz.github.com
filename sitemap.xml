@@ -2,20 +2,20 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://hancengiz.github.com/blog/2013/03/22/log-kayitlarini-toplama-logstash-ve-graylog2/
+            http://www.cengizhan.com/blog/2013/03/22/log-kayitlarini-toplama-logstash-ve-graylog2/
         </loc>
         <lastmod>2013-03-22T23:51:16+00:00</lastmod>
     </url>
     <url>
-        <loc>http://hancengiz.github.com/blog/archives/</loc>
+        <loc>http://www.cengizhan.com/blog/archives/</loc>
         <lastmod>2013-03-22T23:51:16+00:00</lastmod>
     </url>
     <url>
-        <loc>http://hancengiz.github.com/</loc>
+        <loc>http://www.cengizhan.com/</loc>
         <lastmod>2013-03-22T23:51:16+00:00</lastmod>
     </url>
     <url>
-        <loc>http://hancengiz.github.com/robots.txt</loc>
+        <loc>http://www.cengizhan.com/robots.txt</loc>
         <lastmod>2013-03-22T23:37:20+00:00</lastmod>
     </url>
 </urlset>

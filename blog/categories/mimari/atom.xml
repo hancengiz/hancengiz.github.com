@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: mimari | cengiz han]]></title>
-  <link href="http://hancengiz.github.com/blog/categories/mimari/atom.xml" rel="self"/>
-  <link href="http://hancengiz.github.com/"/>
-  <updated>2013-03-23T00:22:43+00:00</updated>
-  <id>http://hancengiz.github.com/</id>
+  <link href="http://www.cengizhan.com/blog/categories/mimari/atom.xml" rel="self"/>
+  <link href="http://www.cengizhan.com/"/>
+  <updated>2013-03-23T00:23:05+00:00</updated>
+  <id>http://www.cengizhan.com/</id>
   <author>
     <name><![CDATA[Cengiz Han]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Log kayitlarini toplama]]></title>
-    <link href="http://hancengiz.github.com/blog/2013/03/22/log-kayitlarini-toplama-logstash-ve-graylog2/"/>
+    <link href="http://www.cengizhan.com/blog/2013/03/22/log-kayitlarini-toplama-logstash-ve-graylog2/"/>
     <updated>2013-03-22T22:29:00+00:00</updated>
-    <id>http://hancengiz.github.com/blog/2013/03/22/log-kayitlarini-toplama-logstash-ve-graylog2</id>
+    <id>http://www.cengizhan.com/blog/2013/03/22/log-kayitlarini-toplama-logstash-ve-graylog2</id>
     <content type="html"><![CDATA[<p>Yazilim projeniz tamamlandi, ya da en azindan musterinizin hayatini kolaylastiracak ilk fonksiyon tamamlandi ve uretim ortamina yuklediniz, peki ya daha sonra? Calisan sisteminiz de neler olup bitiyor? Her sey yolunda mi gidiyor? Herhangi bir calisma zamani hatasi olusmus mu? Bunlari takip etmek icin log dosyalari tutariz ve eger calistiginiz sistem sadece bir bilgisayar uzerine yuklenmis bir web sitesi vb bir sistem ise sorun degildir bu kayitlari takip etmek.</p>
 
 <p>Ancak yuksek erisebilirlik -hangi yazilim icin gereksinim degil ki bu?-  ve aldigi yogun yuk sebebiyle olceklenebilir (scalable) bir sistem gelistirdiginiz de bu sistemi ozellikle canli ortamda izlemek dikkatle planlanmasi gereken bir islemdir.</p>
